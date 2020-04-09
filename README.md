@@ -1,8 +1,7 @@
-# {Project Name Here}
+# COVID-19 Impact on Worldwide Stock Markets 
 Data base ETL project for UC Berkeley Extension Data Analytics Bootcamp
 ## Sumary
-{place holder}
-Temparary!!! Report page link !!!!
+Project Report
 <br/>
 https://docs.google.com/document/d/19xXDziHLFC-RZnyse5aBP2GcZgLMf9txcXBHXYI5TFI/edit
 <br/>
